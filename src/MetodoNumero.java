@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+//Nombre : Angel Gabriel Sanchez Cajina
+//Numero de carnet: 2024-1640U
+//Grupo 1M7-S
 public class MetodoNumero {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
